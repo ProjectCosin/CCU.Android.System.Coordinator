@@ -4,7 +4,7 @@
 
 
   If you want to get the complete project folder, please visit the following link:
-  http://pan.baidu.com/s/1nt8AwnZ
+  http://pan.baidu.com/s/1pJKbCTH
   The project working folder locates at  \Projects\zstack\Samples\proj\Source
 
 
