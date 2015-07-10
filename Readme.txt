@@ -1,5 +1,13 @@
-如获取整个项目工程，请访问以下链接下载：
+  Note:
 
-http://pan.baidu.com/s/1nt8AwnZ
+  #How to get the runable project?
 
-项目工程目录 \Projects\zstack\Samples\proj\Source
+
+  If you want to get the complete project folder, please visit the following link:
+  http://pan.baidu.com/s/1nt8AwnZ
+  The project working folder locates at  \Projects\zstack\Samples\proj\Source
+
+
+  #How to start?
+
+  Please refer the pdf document, and get a step by step tutorial so that you can write the code into zigbee chips.

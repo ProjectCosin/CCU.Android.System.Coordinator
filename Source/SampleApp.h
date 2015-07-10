@@ -35,6 +35,7 @@
 
   Should you have any questions regarding your right to use this Software,
   contact Texas Instruments Incorporated at www.TI.com. 
+
 **************************************************************************************************/
 
 #ifndef SAMPLEAPP_H
